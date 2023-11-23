@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vercel/postgres": "^0.5.1",
+    "nodemon": "^3.0.1"
+  }
+}
